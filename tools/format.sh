@@ -3,6 +3,7 @@ do_format=$1
 files_to_format="""
 EKF/AlphaFilter.hpp
 EKF/RingBuffer.h
+EKF/control.cpp
 """
 RED='\033[0;31m'
 GREEN='\033[0;32m'
